@@ -81,7 +81,7 @@
     <h1>Employee Management System</h1>
     <div class="container">
         <h2>Add Employee</h2>
-        <form method="post" action="samplepage.php">
+        <form method="post" action="ccie2.php">
             <div class="form-group">
                 <label for="name">Name:</label>
                 <input type="text" id="name" name="name" value="<?php echo $name; ?>" required>
